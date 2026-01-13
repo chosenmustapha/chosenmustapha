@@ -29,7 +29,7 @@ My engineering background gives me a unique perspective on system design, automa
 I'm interested in starting to contribute to Bitcoin open source projects. Always open to connecting with like-minded contributors!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustapha-barrie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustapha-barrie/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mustapha-barrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustapha-barrie" height="30" width="40" /></a>
 </p>
 
 
