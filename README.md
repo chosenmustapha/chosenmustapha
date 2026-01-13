@@ -1,4 +1,4 @@
-# Hi there, I'm Mustapha Barrie <a href="https://linkedin.com/in/https://www.linkedin.com/in/mustapha-barrie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustapha-barrie/" height="30" width="40" /></a>👋
+# Hi there, I'm Mustapha Barrie
 
 I'm a Software Engineer transitioning into DevOps Engineering, with a strong foundation in electrical engineering and a passion for building reliable, scalable systems.
 
