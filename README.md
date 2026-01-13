@@ -26,5 +26,6 @@ My engineering background gives me a unique perspective on system design, automa
 
 ## 🤝 Open Source Journey
 
-I'm beginning my open source contribution journey and I'm particularly interested in Bitcoin projects. Looking to connect with like-minded contributors and learn from the community. If you're working on Bitcoin-related projects or have suggestions for getting started, I'd love to connect!
+I'm interested in starting to contribute to Bitcoin open source projects. Always open to connecting with like-minded contributors!
+
 
