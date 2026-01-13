@@ -18,7 +18,7 @@ My engineering background gives me a unique perspective on system design, automa
 - ₿ Interested in contributing to Bitcoin open source projects and connecting with the community
 
 ## 🛠️ Technologies & Tools
-- Languages: Python, Go, Bash, Java, SQL.
+- Languages: Python, Bash, Java, SQL.
 - DevOps Tools: Docker, Kubernetes, Terraform, Github Actions
 - Cloud Platforms: AWS
 - Version Control: Git, GitHub
