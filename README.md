@@ -1,4 +1,4 @@
-# Hi there, I'm Mustapha Barrie
+# 🔬Hi there, I'm Mustapha Barrie
 
 I'm a Software Engineer transitioning into DevOps Engineering, with a strong foundation in electrical engineering and a passion for building reliable, scalable systems.
 
@@ -14,7 +14,7 @@ My engineering background gives me a unique perspective on system design, automa
 ## 🚀 What I'm Up To
 - 🔧 Actively learning DevOps practices, tools, and methodologies
 - 📝 Learning in public and documenting my journey to help others on similar paths
-- 🌱 Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
+- ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
 - ₿ Interested in contributing to Bitcoin open source projects and connecting with the community
 
 ## 🛠️ Technologies & Tools
