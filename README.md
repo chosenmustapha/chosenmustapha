@@ -1,4 +1,4 @@
-# 🔬Hi there, I'm Mustapha Barrie
+# 🔬Hi there, I'm Mustapha
 
 I'm a Software Engineer transitioning into DevOps Engineering, with a strong foundation in electrical engineering and a passion for building reliable, scalable systems.
 
