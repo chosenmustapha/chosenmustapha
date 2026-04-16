@@ -29,5 +29,3 @@ My engineering background gives me a unique perspective on system design, automa
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chosenmustapha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 
 ---
-
-**X** [@ChosenMustapha](https://x.com/ChosenMustapha)
