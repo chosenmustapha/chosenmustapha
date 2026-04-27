@@ -1,24 +1,21 @@
-## 🔬Hi there, I'm Mustapha
-I'm a Software Engineer transitioning into DevOps Engineering, with a strong foundation in electrical engineering and a passion for building reliable, scalable systems.
-
-## 🎓 Education
-**Bachelor of Science in Electrical Engineering**  
-SUNY Buffalo State University
-
-## 💼 Professional Background
-I bring hands-on experience as a Software Engineer, Salesforce Administrator and I'm currently expanding my expertise into the DevOps domain. 
-My engineering background gives me a unique perspective on system design, automation, and infrastructure optimization.
+## Hey, I'm Mustapha 👋
+ 
+**DevOps Engineer | SRE** based in New York
+ 
+From building software to building infrastructure. I automate things, break things (in staging), and make systems more reliable.
+ 
+### What I work with
+ 
+**Infra & Cloud:** Docker • Kubernetes • Terraform • AWS • GitHub Actions  
+**Code:** Python • Bash • Java • SQL
+ 
+Previous life: Software Engineer + Salesforce Admin  
+Current interests: DevOps, SRE practices, and Bitcoin open source
 
 ## 🚀 What I'm Up To
 - 🔧 Actively learning DevOps practices, tools, and methodologies
 - ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
 - ₿ Interested in contributing to Bitcoin open source projects and connecting with the community
-
-## 🛠️ Technologies & Tools
-- Languages: Python, Bash, Java, SQL.
-- DevOps Tools: Docker, Kubernetes, Terraform, Github Actions
-- Cloud Platforms: AWS
-- Version Control: Git, GitHub
 
 ---
 
