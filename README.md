@@ -53,3 +53,7 @@ Code           →  Python • Bash • Java • SQL
 
 ---
 
+```markdown
+[![](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=github-compact&hide_border=true&area=true)](https://github.com/chosenmustapha)
+```
+
