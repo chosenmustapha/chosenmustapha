@@ -16,7 +16,7 @@ Code           →  Python • Bash • Java • SQL
 ```
 
 **Previous:** Software Engineer + Salesforce Admin  
-**Current Focus:** DevOps, SRE, Cloud Engineer practices, and ₿itcoin open source
+**Current Focus:** DevOps, SRE, Cloud Engineering practices
 
 ---
 
