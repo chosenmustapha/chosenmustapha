@@ -12,7 +12,7 @@
 
 ```
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions
-Code           →  Python • Bash • Java • SQL, hcl
+Code           →  Python • Bash • Java • SQL
 ```
 
 **Previous:** Software Engineer + Salesforce Admin  
