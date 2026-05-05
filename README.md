@@ -42,14 +42,3 @@ Code           →  Python • Bash • Java • SQL, hcl
 </div>
 
 ---
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<!-- Dark mode -->
-[![Contribution Graph](https://github.pumbas.net/api/contributions/chosenmustapha?colour=58a6ff&bgColour=0d1117&dotColour=c9d1d9&days=60#gh-dark-mode-only)](https://github.com/chosenmustapha#gh-dark-mode-only)
-
-</div>
-
----
