@@ -13,8 +13,8 @@ From building software to building infrastructure. I automate things, break thin
 ### 🛠️ Tech Stack
 
 ```
-Infra & Cloud  →  Docker • Kubernetes • Terraform • AWS • GitHub Actions
-Code           →  Python • Bash • Java • SQL
+Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions
+Code           →  Python • Bash • Java • SQL, hcl
 ```
 
 **Previous:** Software Engineer + Salesforce Admin  
@@ -52,8 +52,3 @@ Code           →  Python • Bash • Java • SQL
 </div>
 
 ---
-
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=github-compact&hide_border=true&area=true)](https://github.com/chosenmustapha)
-
-
