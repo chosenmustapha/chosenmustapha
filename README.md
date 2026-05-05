@@ -1,26 +1,33 @@
-## Hey, I'm Mustapha 👋
- 
-**DevOps Engineer | SRE** based in New York
- 
-From building software to building infrastructure. I automate things, break things (in staging), and make systems more reliable.
- 
-### What I work with
- 
-**Infra & Cloud:** Docker • Kubernetes • Terraform • AWS • GitHub Actions  
-**Code:** Python • Bash • Java • SQL
- 
-Previous life: Software Engineer + Salesforce Admin  
-Current interests: DevOps, SRE practices, and ₿itcoin open source
+<div align="center">
 
-## 🚀 What I'm Up To
-- 🔧 Actively learning DevOps practices, tools, and methodologies
-- ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
+# Mustapha
+
+**DevOps Engineer | SRE** • New York
+
+</div>
+
 ---
 
-## 📊 GitHub Activity Overview
+From building software to building infrastructure.  
+I automate things, break things (in staging), and make systems more reliable.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chosenmustapha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+**Stack:** Docker • Kubernetes • Terraform • AWS • GitHub Actions • Python • Bash • Java • SQL
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chosenmustapha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
+**Background:** Software Engineer + Salesforce Admin  
+**Focus:** DevOps, SRE practices, ₿itcoin open source
+
 ---
-[![](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=false&hide_border=true)](https://github.com/chosenmustapha)
+
+<div align="center">
+
+### Activity
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=github-compact&hide_border=true&area=true&custom_title=&height=200)](https://github.com/chosenmustapha)
+
+![](https://github-readme-stats.vercel.app/api?username=chosenmustapha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_title=true&hide_rank=true)
+
+---
+
+PGP: `[Your PGP fingerprint here]`
+
+</div>
