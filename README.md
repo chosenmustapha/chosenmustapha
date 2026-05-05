@@ -24,6 +24,10 @@ Current interests: DevOps, SRE practices, and ₿itcoin open source
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chosenmustapha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Stats
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=tokyo-night)
+![Stats](https://github-readme-stats.vercel.app/api?username=chosenmustapha&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=chosenmustapha&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chosenmustapha&layout=compact&theme=tokyonight)
