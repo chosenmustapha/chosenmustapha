@@ -47,7 +47,8 @@ Code           →  Python • Bash • Java • SQL, hcl
 
 <div align="center">
 
-[[![](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=58a6ff)](https://github.com/chosenmustapha)](https://github.pumbas.net/api/contributions/chosenmustapha?colour=58a6ff&bgColour=0d1117&dotColour=c9d1d9&days=60)
+<!-- Dark mode -->
+[![Contribution Graph](https://github.pumbas.net/api/contributions/chosenmustapha?colour=58a6ff&bgColour=0d1117&dotColour=c9d1d9&days=60#gh-dark-mode-only)](https://github.com/chosenmustapha#gh-dark-mode-only)
 
 </div>
 
