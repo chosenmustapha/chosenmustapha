@@ -2,13 +2,11 @@
 
 # Hey, I'm Mustapha 👋
 
-**DevOps Engineer | SRE** • New York
+**DevOps Engineer | SRE | Cloud Engineer** • New York
 
 </div>
 
 ---
-
-From building software to building infrastructure. I automate things, break things (in staging), and make systems more reliable.
 
 ### 🛠️ Tech Stack
 
@@ -18,7 +16,7 @@ Code           →  Python • Bash • Java • SQL, hcl
 ```
 
 **Previous:** Software Engineer + Salesforce Admin  
-**Current Focus:** DevOps, SRE practices, and ₿itcoin open source
+**Current Focus:** DevOps, SRE, Cloud Engineer practices, and ₿itcoin open source
 
 ---
 
