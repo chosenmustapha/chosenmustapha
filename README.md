@@ -23,8 +23,4 @@ Current interests: DevOps, SRE practices, and ₿itcoin open source
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chosenmustapha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 ---
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=github-compact&hide_border=true"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chosenmustapha&theme=github-compact&cache_seconds=0)
