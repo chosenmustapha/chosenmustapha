@@ -24,7 +24,6 @@ Code           →  Python • Bash • Java • SQL
 
 - 🔧 Actively learning DevOps practices, tools, and methodologies
 - ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
-- 🤝 Contributing to open source projects
 - 📚 Deepening knowledge in system reliability and scalability
 
 ---
