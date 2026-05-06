@@ -2,7 +2,7 @@
 
 # Hey, I'm Mustapha 👋
 
-**DevOps Engineer | SRE | Cloud Engineer** • New York
+**DevOps Engineer | SRE | Cloud Engineer**
 
 </div>
 
