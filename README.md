@@ -33,10 +33,10 @@ Code           →  Python • Bash • Java • SQL
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chosenmustapha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&rank_icon=github" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chosenmustapha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&rank_icon=github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chosenmustapha&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chosenmustapha&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
     </td>
   </tr>
   <tr>
