@@ -30,15 +30,12 @@ Code           →  Python • Bash • Java • SQL
 
 ### 📊 GitHub Activity
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://ghstats.dev/api/card?username=chosenmustapha&bg=0d1117&text=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://ghstats.dev/api/langs?username=chosenmustapha&layout=grid&bg=0d1117&text=c9d1d9&title_color=58a6ff&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://ghstats.dev/api/card?username=chosenmustapha&size=compact&compact_count=4&hide_border=true&hide_title=true&bg=0d1117&text=c9d1d9&title_color=58a6ff&icon_color=58a6ff" />
+
+<img src="https://ghstats.dev/api/langs?username=chosenmustapha&layout=bar&hide_border=true&hide_title=true&bg=0d1117&text=c9d1d9&title_color=58a6ff" />
+
+</div>
 
 ---
