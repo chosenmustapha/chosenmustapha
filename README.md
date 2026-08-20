@@ -33,15 +33,10 @@ Code           →  Python • Bash • Java • SQL
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chosenmustapha&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&rank_icon=github" />
+      <img src="https://ghstats.dev/api/card?username=chosenmustapha&bg=0d1117&text=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chosenmustapha&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=chosenmustapha&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&background=0d1117" />
+      <img src="https://ghstats.dev/api/langs?username=chosenmustapha&layout=grid&bg=0d1117&text=c9d1d9&title_color=58a6ff&hide_border=true" />
     </td>
   </tr>
 </table>
