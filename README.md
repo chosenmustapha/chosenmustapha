@@ -22,7 +22,9 @@ Current Focus: DevOps, SRE, Cloud Engineering practices
 🚀 What I’m Up To
 
 * 🔧 Actively learning DevOps practices, tools, and methodologies
+  
 * ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
+  
 * 📚 Deepening knowledge in system reliability and scalability
 
 ⸻
