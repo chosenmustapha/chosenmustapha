@@ -11,6 +11,7 @@ DevOps Engineer | SRE | Cloud Engineer
 🛠️ Tech Stack
 
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions • Kubernetes
+
 Code           →  Python • Bash • Java • SQL
 
 Previous: Software Engineer + Salesforce Admin
