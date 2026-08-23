@@ -6,6 +6,9 @@ DevOps Engineer | SRE | Cloud Engineer
 
 </div>
 
+Previous: Software Engineer + Salesforce Admin
+Current Focus: DevOps, SRE, Cloud Engineering practices
+
 ⸻
 
 🛠️ Tech Stack
@@ -13,9 +16,6 @@ DevOps Engineer | SRE | Cloud Engineer
 Code           →  Python • Bash • Java • SQL
 
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions • Kubernetes
-
-Previous: Software Engineer + Salesforce Admin
-Current Focus: DevOps, SRE, Cloud Engineering practices
 
 ⸻
 
