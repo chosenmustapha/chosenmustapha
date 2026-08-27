@@ -17,6 +17,8 @@ Code           →  Python • Bash • Java • SQL
 
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions • Kubernetes
 
+Operating Sys  →  Windows • Linux • macOS
+
 ⸻
 
 🚀 What I’m Up To
