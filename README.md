@@ -6,6 +6,8 @@ DevOps Engineer | SRE | Cloud Engineer
 
 </div>
 
+⸻
+
 Previous: Software Engineer + Salesforce Admin
 Current Focus: DevOps, SRE, Cloud Engineering practices
 
