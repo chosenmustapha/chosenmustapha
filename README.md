@@ -7,32 +7,21 @@ DevOps Engineer | SRE | Cloud Engineer
 </div>
 
 ⸻
-
 Previous: Software Engineer + Salesforce Admin
 Current Focus: DevOps, SRE, Cloud Engineering practices
-
 ⸻
-
 🛠️ Tech Stack
 
 Code           →  Python • Bash • Java • SQL
-
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions • Kubernetes
-
 Operating Sys  →  Windows • Linux • macOS
-
 ⸻
-
 🚀 What I’m Up To
 
 * 🔧 Actively learning DevOps practices, tools, and methodologies
-  
 * ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
-  
 * 📚 Deepening knowledge in system reliability and scalability
-
 ⸻
-
 📊 GitHub Activity
 
 <div align="center">
