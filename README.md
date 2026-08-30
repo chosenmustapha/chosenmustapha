@@ -16,6 +16,7 @@ Current Focus: DevOps, SRE, Cloud Engineering practices
 🛠️ Tech Stack
 
 Code           →  Python • Bash • Java • SQL
+
 Infra & Cloud  →  Docker • Terraform • AWS • GitHub Actions • Kubernetes
 Operating Sys  →  Windows • Linux • macOS
 
