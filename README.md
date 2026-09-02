@@ -30,7 +30,6 @@ Operating Sys  →  Windows • Linux • macOS
 * 📚 Deepening knowledge in system reliability and scalability
 
 ⸻
-
 📊 GitHub Activity
 
 <div align="center">
@@ -42,5 +41,4 @@ Operating Sys  →  Windows • Linux • macOS
 <br>
 <img src="https://ghstats.dev/api/langs?username=chosenmustapha&layout=bar&hide_border=true&hide_title=true&bg=0d1117&text=c9d1d9&title_color=58a6ff" />
 </div>
-
 ⸻
