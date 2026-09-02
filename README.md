@@ -30,6 +30,7 @@ Operating Sys  →  Windows • Linux • macOS
 * 📚 Deepening knowledge in system reliability and scalability
 
 ⸻
+
 📊 GitHub Activity
 
 <div align="center">
