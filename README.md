@@ -12,7 +12,7 @@ Current Focus: DevOps, SRE, Cloud Engineering practices
 
 ⸻
 
-🛠️ Tech Stack
+## Tech Stack
 
 Code           →  Python • Bash • Java • SQL
 
@@ -22,15 +22,15 @@ Operating Sys  →  Windows • Linux • macOS
 
 ⸻
 
-🚀 What I’m Up To
+## What I’m Up To
 
-* 🔧 Actively learning DevOps practices, tools, and methodologies
+* Actively learning DevOps practices, tools, and methodologies
 * ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
 * 📚 Deepening knowledge in system reliability and scalability
 
 ⸻
 
-📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 <img src="https://ghstats.dev/api/card?username=chosenmustapha&size=compact&compact_count=4&hide_border=true&hide_title=true&bg=0d1117&text=c9d1d9&title_color=58a6ff&icon_color=58a6ff" />
