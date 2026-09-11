@@ -1,6 +1,6 @@
 <div align="center">
   
-Hey, I’m Mustapha 👋
+Hey, I’m Mustapha 
 
 DevOps Engineer | SRE | Cloud Engineer
 </div>
