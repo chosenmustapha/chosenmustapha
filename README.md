@@ -25,7 +25,7 @@ Operating Sys  →  Windows • Linux • macOS
 ## What I’m Up To
 
 * Actively learning DevOps practices, tools, and methodologies
-* ☁️ Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
+* Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
 * 📚 Deepening knowledge in system reliability and scalability
 
 ⸻
