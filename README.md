@@ -26,7 +26,7 @@ Operating Sys  →  Windows • Linux • macOS
 
 * Actively learning DevOps practices, tools, and methodologies
 * Exploring cloud infrastructure, CI/CD pipelines, containerization, and infrastructure as code
-* 📚 Deepening knowledge in system reliability and scalability
+* Deepening knowledge in system reliability and scalability
 
 ⸻
 
