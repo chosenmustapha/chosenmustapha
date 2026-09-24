@@ -1,8 +1,7 @@
 <div align="center">
   
 # Hi, I’m Mustapha 
-
-### ☁️ DevOps Engineer | SRE | Cloud Engineer☁️
+☁️ DevOps Engineer | SRE | Cloud Engineer☁️
 </div>
 
 ⸻
